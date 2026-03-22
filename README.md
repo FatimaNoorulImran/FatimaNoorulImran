@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/header.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/FatimaNoorulImran/FatimaNoorulImran/main/header.png" width="100%" />
 
   <h1> Hi, I'm Fatima 👋 </h1>
 
