@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/FatimaNoorulImran/FatimaNoorulImran/main/header.png" width="100%" />
-
-  <h1> Hi, I'm Fatima 👋 </h1>
+  <h1> Hi, I'm Fatima Noor👋 </h1>
 
   <h3> ☁️ MERN Full Stack Cloud Developer 🚀 </h3>
 
