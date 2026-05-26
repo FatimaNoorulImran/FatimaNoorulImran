@@ -49,12 +49,15 @@
 </div>
 
 ---
+## 📊 My Stats
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-0f0008?style=for-the-badge&logo=javascript&logoColor=d4788a)
+![React](https://img.shields.io/badge/React-Intermediate-0f0008?style=for-the-badge&logo=react&logoColor=d4788a)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-0f0008?style=for-the-badge&logo=node.js&logoColor=d4788a)
+
 
 ## 📊 Stats & Rankings
 
 <div align="center">
-
-<img height="175em" src="https://readme-stats.cotes.page/api?username=FatimaNoorulImran&show_icons=true&hide_border=true&bg_color=0f0008&title_color=d4788a&icon_color=a0485a&text_color=c9909a" />
 
 <br/>
 
